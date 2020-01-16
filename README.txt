@@ -8,7 +8,7 @@ DoS Victim.py
 
 DoS Attacker.py
 	this is the program that is executed on attacker's host in DoS attack.
-	It takes 2 arguments: the victim IPv6 address (that will be the sorurce address of the spoofed fragment) 
+	It takes 2 arguments: the victim IPv6 address (that will be the source address of the spoofed fragment) 
 	and the IPv6 address of the target website.
 
 Modification Victim.py
