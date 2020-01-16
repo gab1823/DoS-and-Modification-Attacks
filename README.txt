@@ -1,4 +1,4 @@
-This file describes the python programs used for DoS Attack and Modification Attack.
+This file describes the Python programs used for DoS Attack and Modification Attack.
 
 The programs are the following:
 
